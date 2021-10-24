@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class QN4 {
+public class QN5 {
 
 	public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
